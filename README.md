@@ -42,12 +42,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=88D204&background=88D20400&center=true&vCenter=true&width=500&lines=Nice+to+meet+you!;Send+me+if+you+have+any+questions.;I'll+be+glad+to+chat+%3A)" alt="Typing SVG" /></a>
     <br>
     <a href="https://t.me/KacIvan" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" title="https://t.me/KacIvan" width="30" height="30" alt="Telegram" />
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" title="Contact me on Telegram" width="30" height="30" alt="Telegram" />
     </a>   
     <a href="https://vk.com/li_kell" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" title="https://vk.com/li_kell" width="30" height="30" alt="VK" />
+        <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" title="Contact me on VK" width="30" height="30" alt="VK" />
     </a>   
     <a href="mailto:kimimaro13@mail.ru" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/726/726573.png" title="kimimaro13@mail.ru" width="30" height="30" alt="mail.ru" />
+        <img src="https://cdn-icons-png.flaticon.com/512/726/726573.png" title="Send me an email" width="30" height="30" alt="mail.ru" />
     </a>
 </div>
