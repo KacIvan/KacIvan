@@ -21,6 +21,8 @@
   <img src="https://img.icons8.com/color/256/adobe-photoshop.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/>&nbsp
 </div>
 
+### 📜 View my certificates: <a href="https://drive.google.com/drive/folders/1h9t79JCPhcv6xnPtJbdu8ia_5-wCsWYq?usp=sharing">HERE</a>
+
 ---
 ### 📀 My Codewars:
 ![codewars](https://www.codewars.com/users/KacIvan/badges/large)
