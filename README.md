@@ -41,6 +41,9 @@
 <div id="footer" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=88D204&background=88D20400&center=true&vCenter=true&width=500&lines=Nice+to+meet+you!;Contact+me+if+you+have+any+questions.;I'll+be+glad+to+chat+%3A)" alt="Typing SVG" /></a>
     <br>
+    <a href="https://www.linkedin.com/in/ivan-katsarenko-564627270/" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" title="Contact me on LinkedIn" width="30" height="30" alt="LinkedIn" />
+    </a> 
     <a href="https://t.me/KacIvan" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" title="Contact me on Telegram" width="30" height="30" alt="Telegram" />
     </a>   
