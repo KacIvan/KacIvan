@@ -3,22 +3,23 @@
 
 ### :crossed_swords: My technologies:
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML" alt="HTML" width="35" height="35"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="35" height="35"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" title="PHP" alt="PHP" width="35" height="35"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="I know the basics C#" alt="C#" width="35" height="35"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="35" height="35"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" title="Git" alt="Git" width="35" height="35"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML" alt="HTML" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" title="PHP" alt="PHP" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="I know the basics C#" alt="C#" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" title="Git" alt="Git" width="35" height="35"/>
 </div>
 
 ### :toolbox: My tools:
 <div>
-  <img src="https://img.icons8.com/color/256/visual-studio--v2.png" title="Visual Studio" alt="Visual Studio" width="35" height="35"/>&nbsp
-  <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" title="VS Code" alt="VS Code" width="35" height="35"/>&nbsp
-  <img src="https://img.icons8.com/color/256/webstorm.png" title="WebStorm" alt="WebStorm" width="35" height="35"/>&nbsp
-  <img src="https://img.icons8.com/fluency/256/figma.png" title="Figma" alt="Figma" width="35" height="35"/>&nbsp
-  <img src="https://img.icons8.com/color/256/adobe-photoshop.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/>&nbsp
+  <img src="https://img.icons8.com/color/256/visual-studio--v2.png" title="Visual Studio" alt="Visual Studio" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" title="VS Code" alt="VS Code" width="35" height="35"/>
+  <img src="https://static-00.iconduck.com/assets.00/webstorm-icon-512x496-ytmya0mz.png" title="WebStorm" alt="WebStorm" width="35" height="35"/>
+  <img src="https://static-00.iconduck.com/assets.00/phpstorm-icon-512x506-d6yogswx.png" title="PHPStorm" alt="PHPStorm" width="35" height="35"/>
+  <img src="https://img.icons8.com/fluency/256/figma.png" title="Figma" alt="Figma" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/256/adobe-photoshop.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/>
 </div>
 
 ### 📜 View my certificates: <a href="https://drive.google.com/drive/folders/1h9t79JCPhcv6xnPtJbdu8ia_5-wCsWYq?usp=sharing" title="Follow the link if you want to see my diplomas and certificates" target="_blank">HERE</a>
