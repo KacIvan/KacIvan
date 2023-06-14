@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/KacIvan/KacIvan/main/header_pic.png" alt="Header logo">
-<p>Hi! I'm Ivan. My specialty is web. I started my immersion in the IT world by studying C# and Unity, but eventually became interested in the frontend and everything related to web technologies. I want to be part of a cool team and create amazing projects for people. Let's all work together to make this world a better place right now! :earth_asia:</p>
+# Hi! I'm Ivan! :wave:
+<p>My specialty is web. I started my immersion in the IT world by studying C# and Unity, but eventually became interested in the frontend and everything related to web technologies. I want to be part of a cool team and create amazing projects for people. Let's all work together to make this world a better place right now! :earth_asia:</p>
 
 ### :crossed_swords: My technologies:
 <div>
