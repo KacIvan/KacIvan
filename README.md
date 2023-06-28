@@ -1,6 +1,9 @@
 # Hi! I'm Ivan! :wave:
 <p>My specialty is web. I started my immersion in the IT world by studying C# and Unity, but eventually became interested in the frontend and everything related to web technologies. I want to be part of a cool team and create amazing projects for people. Let's all work together to make this world a better place right now! :earth_asia:</p>
 
+- 📑 My CV: <a href="https://drive.google.com/file/d/1FEh62xcWzfwgG4Iu8qJd9jGl4GacCLGB/view?usp=sharing" title="Follow the link if you want to see my CV" target="_blank"><b>HERE</b></a>
+- 📜 My certificates: <a href="https://drive.google.com/drive/folders/1h9t79JCPhcv6xnPtJbdu8ia_5-wCsWYq?usp=sharing" title="Follow the link if you want to see my diplomas and certificates" target="_blank"><b>HERE</b></a>
+
 ## :crossed_swords: My technologies:
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML" alt="HTML" width="35" height="35"/>
@@ -10,6 +13,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="I know the basics C#" alt="C#" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" title="Git" alt="Git" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="35" height="35"/>
 </div>
 
 ## :toolbox: My tools:
@@ -21,10 +25,8 @@
   <img src="https://img.icons8.com/color/256/adobe-photoshop.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/>
 </div>
 
-## 📜 View my certificates: <a href="https://drive.google.com/drive/folders/1h9t79JCPhcv6xnPtJbdu8ia_5-wCsWYq?usp=sharing" title="Follow the link if you want to see my diplomas and certificates" target="_blank">HERE</a>
-
 ---
-## 📀 My Codewars:
+## 📀 My statistics on Codewars:
 ![codewars](https://www.codewars.com/users/KacIvan/badges/large)
 
 ## :bar_chart: Github stats:
