@@ -25,7 +25,6 @@
   <img src="https://img.icons8.com/color/256/adobe-photoshop.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/>
 </div>
 
----
 ## 📀 My statistics on Codewars:
 ![codewars](https://www.codewars.com/users/KacIvan/badges/large)
 
