@@ -28,7 +28,7 @@
 ## 📀 My statistics on Codewars:
 ![codewars](https://www.codewars.com/users/KacIvan/badges/large)
 
-## :bar_chart: Github stats:
+## :bar_chart: My statistics on Github:
 <table>
   <tr>
     <td>
