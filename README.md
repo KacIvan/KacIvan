@@ -4,7 +4,7 @@
 - 📑 My CV: <a href="https://drive.google.com/file/d/1FEh62xcWzfwgG4Iu8qJd9jGl4GacCLGB/view?usp=sharing" title="Follow the link if you want to see my CV" target="_blank"><b>HERE</b></a>
 - 📜 My certificates: <a href="https://drive.google.com/drive/folders/1h9t79JCPhcv6xnPtJbdu8ia_5-wCsWYq?usp=sharing" title="Follow the link if you want to see my diplomas and certificates" target="_blank"><b>HERE</b></a>
 
-## :crossed_swords: My technologies:
+## :man_technologist: My technologies:
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML" alt="HTML" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="35" height="35"/>
