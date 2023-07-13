@@ -32,10 +32,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kacivan&theme=dark" alt="webDev's Github stats" />
+      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kacivan&theme=2077" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KacIvan&layout=compact&theme=dark" />
+      <img align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KacIvan&theme=2077" />
     </td>
   </tr>
 </table>
