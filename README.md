@@ -1,7 +1,7 @@
 # Hi! I'm Ivan! :wave:
 <p>My specialty is web. I started my immersion in the IT world by studying C# and Unity, but eventually became interested in the frontend and everything related to web technologies. I want to be part of a cool team and create amazing projects for people. Let's all work together to make this world a better place right now! :earth_asia:</p>
 
-- 📑 My CV: <a href="https://drive.google.com/file/d/1FEh62xcWzfwgG4Iu8qJd9jGl4GacCLGB/view?usp=sharing" title="Follow the link if you want to see my CV" target="_blank"><b>HERE</b></a>
+<!--- 📑 My CV: <a href="https://drive.google.com/file/d/1FEh62xcWzfwgG4Iu8qJd9jGl4GacCLGB/view?usp=sharing" title="Follow the link if you want to see my CV" target="_blank"><b>HERE</b></a>-->
 - 📜 My certificates: <a href="https://drive.google.com/drive/folders/1h9t79JCPhcv6xnPtJbdu8ia_5-wCsWYq?usp=sharing" title="Follow the link if you want to see my diplomas and certificates" target="_blank"><b>HERE</b></a>
 
 ## :man_technologist: My technologies:
