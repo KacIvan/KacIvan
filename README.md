@@ -14,7 +14,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" title="Git" alt="Git" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="35" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/ru/5/51/1c_bitrix_logo.svg" title="1C Bitrix" alt="1C Bitrix" width="35" height="35"/>
-
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" title="WordPress" alt="WordPress" width="35" height="35"/>
 </div>
 
 ## :toolbox: My tools:
