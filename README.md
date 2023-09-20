@@ -8,9 +8,8 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML" alt="HTML" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="35" height="35"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" title="JavaScript" alt="JavaScript" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" title="PHP" alt="PHP" width="35" height="35"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="I know the basics C#" alt="C#" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" title="Git" alt="Git" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="35" height="35"/>
