@@ -17,14 +17,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" title="WordPress" alt="WordPress" width="35" height="35"/>
 </div>
 
-## :toolbox: My tools:
-<div>
-  <img src="https://static-00.iconduck.com/assets.00/phpstorm-icon-512x506-d6yogswx.png" title="PHPStorm" alt="PHPStorm" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" title="VS Code" alt="VS Code" width="35" height="35"/>
-  <img src="https://img.icons8.com/fluency/256/figma.png" title="Figma" alt="Figma" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/256/adobe-photoshop.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/>
-</div>
-
 ## 📀 My statistics on Codewars:
 ![codewars](https://www.codewars.com/users/KacIvan/badges/large)
 
