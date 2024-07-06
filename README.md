@@ -1,7 +1,6 @@
 # Hi! I'm Ivan! :wave:
-<p>My specialty is Web Development and I want to create amazing projects for people. Let's all work together to make this world a better place right now! :earth_asia:</p>
+<p>My specialty is PHP development and I want to create amazing projects for people. Let's all work together to make this world a better place right now! :earth_asia:</p>
 
-<!--- 📑 My CV: <a href="https://drive.google.com/file/d/1FEh62xcWzfwgG4Iu8qJd9jGl4GacCLGB/view?usp=sharing" title="Follow the link if you want to see my CV" target="_blank"><b>HERE</b></a>-->
 - 📜 My certificates: <a href="https://drive.google.com/drive/folders/1h9t79JCPhcv6xnPtJbdu8ia_5-wCsWYq?usp=sharing" title="Follow the link if you want to see my diplomas and certificates" target="_blank"><b>HERE</b></a>
 
 ## :man_technologist: My technologies:
@@ -13,8 +12,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" title="Git" alt="Git" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/ru/5/51/1c_bitrix_logo.svg" title="1C Bitrix" alt="1C Bitrix" width="35" height="35"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" title="WordPress" alt="WordPress" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" title="Laravel" alt="Laravel" width="35" height="35"/>
 </div>
 
 ## 📀 My statistics on Codewars:
